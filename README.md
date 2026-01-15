@@ -301,4 +301,4 @@ Install Docker Desktop from https://www.docker.com/products/docker-desktop/
 
 ## Setup Used
 
-VSCode + Copilot + occasional Gemini prompts
+VSCode + Copilot + occasional ChatGPT & Claude prompts
